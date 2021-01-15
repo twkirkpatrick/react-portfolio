@@ -1,1 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500&display=swap");
 
+#landing {
+  background-image: url("./landing2.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  color: rgb(180, 167, 167);
+}
+
+.name {
+  font-size: 3rem;
+  margin-top: 19rem;
+  font-family: "Alfa Slab One", cursive;
+}
+
+a.navbar-brand,
+a.nav-link {
+  color: white !important;
+  text-transform: uppercase;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+a.nav-link:hover,
+a.navbar-brand:hover {
+  border-bottom: 1px solid black;
+}
