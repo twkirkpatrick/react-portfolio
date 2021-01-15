@@ -15,10 +15,11 @@ const Landing = () => {
               size="lg"
               style={{
                 borderRadius: "0",
-                backgroundColor: "purple",
+                backgroundColor: "rgb(74, 5, 92)",
                 border: "none"
               }}
               href="#projects"
+              className="view-btn"
             >
               View My Work
             </Button>

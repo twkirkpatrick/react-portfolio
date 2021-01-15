@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
 
 #landing {
   background-image: url("./landing2.jpg");
@@ -9,22 +13,48 @@
   color: rgb(180, 167, 167);
 }
 
+.tech-img {
+  margin-left: 25px;
+  margin-top: 2rem;
+}
+
 .name {
   font-size: 3rem;
   margin-top: 19rem;
   font-family: "Alfa Slab One", cursive;
 }
 
+.heading {
+  font-size: 2rem;
+  font-family: "Alfa Slab One", cursive;
+  margin-top: 1rem;
+  border-bottom: 1px solid black;
+}
+
 a.navbar-brand,
 a.nav-link {
   color: white !important;
   text-transform: uppercase;
-  font-family: "Noto Sans JP", sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 300;
   font-size: 14px;
+}
+
+.navbar-brand {
+  font-size: 20px !important;
 }
 
 a.nav-link:hover,
 a.navbar-brand:hover {
   border-bottom: 1px solid black;
+}
+
+.view-btn {
+  font-family: "Oswald", sans-serif;
+  font-family: 300;
+  text-transform: uppercase;
+}
+
+.view-btn:hover {
+  background-color: purple !important;
 }
