@@ -22,6 +22,7 @@ const Landing = () => {
               className="view-btn"
             >
               View My Work
+              <i class="fas fa-arrow-circle-down ml-2"></i>
             </Button>
           </Col>
         </Row>

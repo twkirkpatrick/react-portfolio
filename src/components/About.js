@@ -23,14 +23,14 @@ const About = () => {
             </p>
           </Col>
           <Col sm={6}>
-            <h1 className="heading">TECH STACK</h1>
-            <Image src="/img/reactjs-icon.svg" className="tech-img" />
+            <h1 className="heading">STACK</h1>
             <Image
               src="/img/mongo.svg"
               className="tech-img"
               style={{ width: "150px" }}
             />
             <Image src="/img/express.svg" className="tech-img" />
+            <Image src="/img/reactjs-icon.svg" className="tech-img" />
             <Image src="/img/node.svg" className="tech-img" />
           </Col>
         </Row>

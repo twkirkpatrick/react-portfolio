@@ -10,7 +10,7 @@ html {
   background-size: cover;
   background-position: center;
   height: 100vh;
-  color: rgb(180, 167, 167);
+  color: rgb(241, 235, 235);
 }
 
 .tech-img {
@@ -18,17 +18,31 @@ html {
   margin-top: 2rem;
 }
 
+.mac-img {
+  width: 200px;
+  margin-bottom: 3rem;
+}
+
+#about {
+  background-color: rgb(39, 38, 38);
+  color: white;
+}
+
+#projects {
+  background-color: rgb(39, 38, 38);
+}
+
 .name {
   font-size: 3rem;
-  margin-top: 19rem;
+  margin-top: 23rem;
   font-family: "Alfa Slab One", cursive;
 }
 
 .heading {
   font-size: 2rem;
   font-family: "Alfa Slab One", cursive;
-  margin-top: 1rem;
-  border-bottom: 1px solid black;
+  margin-top: 2rem;
+  border-bottom: 1px solid white;
 }
 
 a.navbar-brand,
@@ -53,6 +67,8 @@ a.navbar-brand:hover {
   font-family: "Oswald", sans-serif;
   font-family: 300;
   text-transform: uppercase;
+  border: 1px solid grey !important;
+  margin-top: 10px;
 }
 
 .view-btn:hover {
