@@ -19,17 +19,19 @@ html {
 }
 
 .mac-img {
-  width: 200px;
+  width: 250px;
   margin-bottom: 3rem;
 }
 
 #about {
-  background-color: rgb(39, 38, 38);
+  /* background-color: rgb(19, 18, 18); */
+  background-color: white;
   color: white;
 }
 
 #projects {
-  background-color: rgb(39, 38, 38);
+  background-color: rgb(19, 18, 18);
+  background-color: white;
 }
 
 .name {
@@ -39,10 +41,11 @@ html {
 }
 
 .heading {
-  font-size: 2rem;
+  font-size: 25px;
   font-family: "Alfa Slab One", cursive;
   margin-top: 2rem;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid black;
+  color: black;
 }
 
 a.navbar-brand,
@@ -71,6 +74,19 @@ a.navbar-brand:hover {
   margin-top: 10px;
 }
 
+.project-btn {
+  /* border-radius: 0; */
+  background-color: rgb(74, 5, 92);
+  border: 1px solid grey !important;
+  font-family: "Oswald", sans-serif;
+  margin-right: 5px;
+}
+
 .view-btn:hover {
   background-color: purple !important;
+}
+.type {
+  font-family: "Oswald", sans-serif;
+  color: black;
+  font-size: 14px;
 }

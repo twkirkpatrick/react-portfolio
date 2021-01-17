@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Pyramid",
+    "image": "/img/pyramid.png",
+    "description": "An employee directory that allows the user to filter and sort their employee information. Built with React",
+    "code": "https://github.com/twkirkpatrick/pyramid-employee-directory",
+    "demo": "https://zealous-lalande-9fc11c.netlify.app"
+  },
+  {
+    "title": "Gitworkd",
+    "image": "/img/gitworkd.png",
+    "description": "A platform for hosting and exploring open source projects. Built with Handlebars, Node, Express, and MySQL",
+    "code": "https://github.com/twkirkpatrick/GitWorkd",
+    "demo": "https://gitworkd.herokuapp.com/"
+  },
+  {
+    "title": "Pitch",
+    "image": "/img/pitch.png",
+    "description": "An application that allows the user to explore and log their musical explorations. Built with jQuery, Materialize, and several external APIs  ",
+    "code": "https://github.com/twkirkpatrick/deep-cuts",
+    "demo": "https://lucsedirae.github.io/deep-cuts/"
+  },
+  {
+    "title": "Raviga",
+    "image": "/img/raviga.png",
+    "description": "A fitness tracker application used to log and track workouts in order for the user to reach fitness goals.  My job was to hook up the MongoDB backend with the provided front end.  Built with JavaScript, Node, Express, Mongoose, and MongoDB.",
+    "code": "https://github.com/twkirkpatrick/Raviga-Fitness-Tracker",
+    "demo": "https://desolate-chamber-67784.herokuapp.com/"
+  }
+]

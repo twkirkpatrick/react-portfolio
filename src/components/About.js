@@ -11,7 +11,7 @@ const About = () => {
         <Row>
           <Col sm={6}>
             <h1 className="heading">ABOUT</h1>
-            <p>
+            <p className="type">
               I am a Full Stack Software Developer based out of Richmond, VA.
               When I am not adventuring outdoors, I am building fully functional
               web-based applications across several platforms. I enjoy tackling
