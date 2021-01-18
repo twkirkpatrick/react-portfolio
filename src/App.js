@@ -4,6 +4,7 @@ import Landing from "./components/Landing";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Articles from "./components/Articles";
+import Footer from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Projects />
       <Articles />
+      <Footer />
     </div>
   );
 }
