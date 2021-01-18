@@ -21,7 +21,13 @@ const Navigation = () => {
             <Nav.Link href="#projects">Projects</Nav.Link>
             <Nav.Link href="#articles">Articles</Nav.Link>
             <Nav.Link href="#articles">Contact</Nav.Link>
-            <Nav.Link href="#resume">Resume</Nav.Link>
+            <Nav.Link
+              href="/resume/tanner-kirkpatrick-resume.pdf"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Resume
+            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
