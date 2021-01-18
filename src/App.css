@@ -13,6 +13,12 @@ html {
   color: rgb(241, 235, 235);
 }
 
+#about {
+  /* background-color: rgb(19, 18, 18); */
+  background-color: white;
+  color: white;
+}
+
 .tech-img {
   margin-left: 25px;
   margin-top: 2rem;
@@ -20,13 +26,8 @@ html {
 
 .mac-img {
   width: 250px;
-  margin-bottom: 3rem;
-}
-
-#about {
-  /* background-color: rgb(19, 18, 18); */
-  background-color: white;
-  color: white;
+  margin-top: 1rem;
+  /* margin-bottom: 3rem; */
 }
 
 #projects {
@@ -82,11 +83,20 @@ a.navbar-brand:hover {
   margin-right: 5px;
 }
 
-.view-btn:hover {
+.view-btn:hover,
+.project-btn:hover {
   background-color: purple !important;
 }
 .type {
   font-family: "Oswald", sans-serif;
   color: black;
   font-size: 14px;
+  margin-top: 2px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-family: "Oswald", sans-serif;
+  color: black;
+  margin-top: 10px;
 }

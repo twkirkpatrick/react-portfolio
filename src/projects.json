@@ -23,7 +23,7 @@
   {
     "title": "Raviga",
     "image": "/img/raviga.png",
-    "description": "A fitness tracker application used to log and track workouts in order for the user to reach fitness goals.  My job was to hook up the MongoDB backend with the provided front end.  Built with JavaScript, Node, Express, Mongoose, and MongoDB.",
+    "description": "A fitness tracker application used to log and track workouts in order for the user to reach fitness goals. Built with JavaScript, Node, Express, Mongoose, and MongoDB.",
     "code": "https://github.com/twkirkpatrick/Raviga-Fitness-Tracker",
     "demo": "https://desolate-chamber-67784.herokuapp.com/"
   },
