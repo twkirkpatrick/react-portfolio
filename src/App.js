@@ -3,6 +3,7 @@ import Navigation from "./components/Navigation";
 import Landing from "./components/Landing";
 import About from "./components/About";
 import Projects from "./components/Projects";
+import Articles from "./components/Articles";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
@@ -13,6 +14,7 @@ function App() {
       <Landing />
       <About />
       <Projects />
+      <Articles />
     </div>
   );
 }

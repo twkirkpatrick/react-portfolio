@@ -17,6 +17,10 @@ html {
   background-color: rgba(247, 234, 234, 0.692);
   color: white;
 }
+#projects,
+#articles {
+  background-color: rgba(247, 234, 234, 0.692);
+}
 
 .tech-img {
   margin-left: 25px;
@@ -29,8 +33,19 @@ html {
   /* margin-bottom: 3rem; */
 }
 
-#projects {
-  background-color: rgba(247, 234, 234, 0.692);
+.social {
+  font-size: 50px;
+  margin-right: 1rem;
+  color: rgb(74, 5, 92);
+}
+.social:hover {
+  color: purple;
+}
+
+.number {
+  font-family: "Oswald", sans-serif;
+  font-size: 14px;
+  color: black !important;
 }
 
 .name {
@@ -94,6 +109,12 @@ a.navbar-brand:hover {
   font-weight: 300;
 }
 
+.articles-type {
+  font-family: "Oswald", sans-serif;
+  color: black;
+  font-size: 16px;
+}
+
 .title {
   font-family: "Oswald", sans-serif;
   color: black;
@@ -105,4 +126,10 @@ a.navbar-brand:hover {
   color: black;
   font-size: 14px;
   font-weight: 300;
+}
+
+.fa-dev {
+  font-size: 35px;
+  margin-right: 10px;
+  color: rgb(74, 5, 92);
 }

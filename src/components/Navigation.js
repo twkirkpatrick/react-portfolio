@@ -19,7 +19,8 @@ const Navigation = () => {
           <Nav className="ml-auto" style={{ marginRight: "30px" }}>
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#projects">Projects</Nav.Link>
-            <Nav.Link href="#contact">Contact</Nav.Link>
+            <Nav.Link href="#articles">Articles</Nav.Link>
+            <Nav.Link href="#articles">Contact</Nav.Link>
             <Nav.Link href="#resume">Resume</Nav.Link>
           </Nav>
         </Navbar.Collapse>
