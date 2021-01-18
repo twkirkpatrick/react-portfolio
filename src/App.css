@@ -90,13 +90,21 @@ a.navbar-brand:hover {
 .type {
   font-family: "Oswald", sans-serif;
   color: black;
-  font-size: 14px;
+  font-size: 16px;
   margin-top: 2px;
   margin-bottom: 10px;
+  font-weight: 300;
 }
 
 .title {
   font-family: "Oswald", sans-serif;
   color: black;
   margin-top: 10px;
+}
+
+.tech {
+  font-family: "Oswald", sans-serif;
+  color: black;
+  font-size: 14px;
+  font-weight: 300;
 }

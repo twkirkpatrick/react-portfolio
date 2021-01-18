@@ -27,6 +27,7 @@ const Projects = () => {
               description={project.description}
               code={project.code}
               demo={project.demo}
+              tech={project.tech}
             />
           ))}
         </Row>
