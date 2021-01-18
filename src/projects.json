@@ -46,5 +46,12 @@
     "tech": "jQuery, Bootstrap, OpenWeatherMap API, Local Storage",
     "code": "https://github.com/twkirkpatrick/Clear-Sky-Weather-Dashboard",
     "demo": "https://twkirkpatrick.github.io/Clear-Sky-Weather-Dashboard/"
+  },
+  {
+    "title": "Alliance",
+    "image": "/img/alliance.png",
+    "description": "A Node Command Line application that enables the user to view, add, and revise employee data within a company hierarchy.",
+    "tech": "JavaScript, Node, Inquirer, MySQL",
+    "code": "https://github.com/twkirkpatrick/Alliance-Employee-Management-System"
   }
 ]

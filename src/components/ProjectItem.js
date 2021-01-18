@@ -16,9 +16,11 @@ const ProjectItem = ({ title, image, description, tech, code, demo }) => {
           <Button className="project-btn" href={code} target="_blank">
             Code
           </Button>
-          <Button className="project-btn" href={demo} target="_blank">
-            Demo
-          </Button>
+          {demo && (
+            <Button className="project-btn" href={demo} target="_blank">
+              Demo
+            </Button>
+          )}
         </Col>
       </Row>
     </Col>
