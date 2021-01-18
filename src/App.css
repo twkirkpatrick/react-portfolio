@@ -54,7 +54,7 @@ html {
 
 .name {
   font-size: 3rem;
-  margin-top: 23rem;
+  margin-top: 26rem;
   font-family: "Alfa Slab One", cursive;
 }
 
@@ -81,7 +81,7 @@ a.nav-link {
 
 a.nav-link:hover,
 a.navbar-brand:hover {
-  border-bottom: 1px solid black;
+  color: black !important;
 }
 
 .view-btn {
@@ -146,4 +146,11 @@ a.navbar-brand:hover {
   color: white;
   font-family: "Oswald", sans-serif;
   font-weight: 100;
+}
+
+@media only screen and (max-width: 500px) {
+  .name {
+    font-size: 2rem;
+    margin-top: 20rem;
+  }
 }
