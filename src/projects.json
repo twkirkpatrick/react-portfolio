@@ -11,7 +11,7 @@
     "title": "Gitworkd",
     "image": "/img/gitworkd.png",
     "description": "A platform for hosting and exploring open source projects on GitHub. Users are able to upload/save/view repositories.",
-    "tech": "JavaScript, Handlebars, Node, Express, MySQL",
+    "tech": "JavaScript, Handlebars, Bootstrap, Node, Express, MySQL",
     "code": "https://github.com/twkirkpatrick/GitWorkd",
     "demo": "https://gitworkd.herokuapp.com/"
   },
@@ -19,7 +19,7 @@
     "title": "Pitch",
     "image": "/img/pitch.png",
     "description": "An application that allows the user to explore, log, and view information on musical artists.",
-    "tech": "jQuery, Materialize, Third-Party APIs",
+    "tech": "jQuery, Materialize, Third-Party APIs, Local Storage",
     "code": "https://github.com/twkirkpatrick/deep-cuts",
     "demo": "https://lucsedirae.github.io/deep-cuts/"
   },
@@ -42,8 +42,8 @@
   {
     "title": "ClearSky",
     "image": "/img/clearsky.png",
-    "description": "A weather dashboard application that display the current weather of a city and it's 5 day forecast.",
-    "tech": "jQuery, Bootstrap, OpenWeatherMap API",
+    "description": "A weather dashboard application that displays the current weather of a city and it's 5 day forecast.",
+    "tech": "jQuery, Bootstrap, OpenWeatherMap API, Local Storage",
     "code": "https://github.com/twkirkpatrick/Clear-Sky-Weather-Dashboard",
     "demo": "https://twkirkpatrick.github.io/Clear-Sky-Weather-Dashboard/"
   }

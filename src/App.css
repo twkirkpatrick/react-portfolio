@@ -14,14 +14,13 @@ html {
 }
 
 #about {
-  /* background-color: rgb(19, 18, 18); */
-  background-color: white;
+  background-color: rgba(247, 234, 234, 0.692);
   color: white;
 }
 
 .tech-img {
   margin-left: 25px;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 .mac-img {
@@ -31,8 +30,7 @@ html {
 }
 
 #projects {
-  background-color: rgb(19, 18, 18);
-  background-color: white;
+  background-color: rgba(247, 234, 234, 0.692);
 }
 
 .name {
