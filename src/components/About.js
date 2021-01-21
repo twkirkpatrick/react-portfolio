@@ -30,8 +30,11 @@ const About = () => {
               style={{ width: "150px" }}
             />
             <Image src="/img/express.svg" className="tech-img" />
-            <Image src="/img/reactjs-icon.svg" className="tech-img" />
-            <Image src="/img/node.svg" className="tech-img" />
+            <Image
+              src="/img/reactjs-icon.svg"
+              className="tech-img react-icon"
+            />
+            <Image src="/img/node.svg" className="tech-img node-icon" />
           </Col>
         </Row>
       </Container>

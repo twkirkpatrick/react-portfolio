@@ -6,7 +6,7 @@ const ArticleItem = ({ title, url, date }) => {
     <div>
       <Col className="articles-type">
         {/* <h6 style={{ marginTop: "1rem" }}>{date}</h6> */}
-        <i class="fab fa-dev"></i>
+        <i className="fab fa-dev"></i>
         <a
           href={url}
           style={{ color: "black", textDecoration: "underline" }}

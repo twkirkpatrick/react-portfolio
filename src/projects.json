@@ -2,7 +2,7 @@
   {
     "title": "Pyramid",
     "image": "/img/pyramid.png",
-    "description": "An employee directory that allows the user to filter and sort their employee information.",
+    "description": "An employee directory that allows the user to filter and sort their employees by multiple categories in an intuitive environment.",
     "tech": "React, Material UI, RandomUser API",
     "code": "https://github.com/twkirkpatrick/pyramid-employee-directory",
     "demo": "https://zealous-lalande-9fc11c.netlify.app"
@@ -10,7 +10,7 @@
   {
     "title": "Gitworkd",
     "image": "/img/gitworkd.png",
-    "description": "A platform for hosting and exploring open source projects on GitHub. Users are able to upload/save/view repositories.",
+    "description": "A platform that promotes collaboration by allowing users to share and explore open source applications. Users are able to upload, save, and view repositories.",
     "tech": "JavaScript, Handlebars, Bootstrap, Node, Express, MySQL",
     "code": "https://github.com/twkirkpatrick/GitWorkd",
     "demo": "https://gitworkd.herokuapp.com/"
@@ -18,7 +18,7 @@
   {
     "title": "Pitch",
     "image": "/img/pitch.png",
-    "description": "An application that allows the user to explore, log, and view information on musical artists.",
+    "description": "An application that helps you navigate the world of music by displaying general information, tour dates, and YouTube videos for hundreds of musical artists.",
     "tech": "jQuery, Materialize, Third-Party APIs, Local Storage",
     "code": "https://github.com/twkirkpatrick/deep-cuts",
     "demo": "https://lucsedirae.github.io/deep-cuts/"
@@ -26,7 +26,7 @@
   {
     "title": "Raviga",
     "image": "/img/raviga.png",
-    "description": "A fitness tracker application used to log and track workouts in order for the user to reach fitness goals.",
+    "description": "A fitness tracker application used to log and track workouts in order for the user to reach fitness goals. Users are able to add new exercises to existing workouts and view their statistics.",
     "tech": "JavaScript, Node, Express, Mongoose, MongoDB",
     "code": "https://github.com/twkirkpatrick/Raviga-Fitness-Tracker",
     "demo": "https://desolate-chamber-67784.herokuapp.com/"
@@ -34,7 +34,7 @@
   {
     "title": "BurgerBase",
     "image": "/img/burger.png",
-    "description": "An application used to log your favorite burgers! Submit a burger, and then devour it!",
+    "description": "A simple application used to log your favorite burgers. Submit a burger of your choice, and then eat it by clicking the devour button next to the burger!",
     "tech": "Node, Express, MySQL, Handlebars, ORM",
     "code": "https://github.com/twkirkpatrick/BurgerBase",
     "demo": "https://warm-atoll-97032.herokuapp.com/"
@@ -42,7 +42,7 @@
   {
     "title": "ClearSky",
     "image": "/img/clearsky.png",
-    "description": "A weather dashboard application that displays the current weather of a city and it's 5 day forecast.",
+    "description": "A weather dashboard application that enables the user to retrieve the current weather and 5-day forecast for cities across the United States.",
     "tech": "jQuery, Bootstrap, OpenWeatherMap API, Local Storage",
     "code": "https://github.com/twkirkpatrick/Clear-Sky-Weather-Dashboard",
     "demo": "https://twkirkpatrick.github.io/Clear-Sky-Weather-Dashboard/"

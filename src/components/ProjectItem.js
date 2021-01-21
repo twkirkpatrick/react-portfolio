@@ -14,11 +14,11 @@ const ProjectItem = ({ title, image, description, tech, code, demo }) => {
           <p className="type">{description}</p>
           <p className="tech">Tech: {tech}</p>
           <Button className="project-btn" href={code} target="_blank">
-            Code
+            Code <i class="fas fa-code"></i>
           </Button>
           {demo && (
             <Button className="project-btn" href={demo} target="_blank">
-              Demo
+              Demo <i class="fas fa-laptop"></i>
             </Button>
           )}
         </Col>

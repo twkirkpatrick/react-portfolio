@@ -10,6 +10,7 @@ const Navigation = () => {
         fixed="top"
         expand="md"
         style={{ backgroundColor: "rgb(74, 5, 92)" }}
+        className="navbar-dark"
       >
         <Navbar.Brand href="#landing" style={{ marginLeft: "30px" }}>
           | TK |

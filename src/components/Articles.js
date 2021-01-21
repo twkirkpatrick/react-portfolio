@@ -27,24 +27,24 @@ const Articles = () => {
               CONTACT
             </h1>
             <a href="mailto:twk4491@gmail.com" target="_blank" rel="noreferrer">
-              <i class="fas fa-envelope social"></i>
+              <i className="fas fa-envelope social"></i>
             </a>
             <a
               href="https://www.linkedin.com/in/tanner-kirkpatrick-6ab95a1a9/"
               target="_blank"
               rel="noreferrer"
             >
-              <i class="fab fa-linkedin social"></i>
+              <i className="fab fa-linkedin social"></i>
             </a>
             <a
               href="https://github.com/twkirkpatrick"
               target="_blank"
               rel="noreferrer"
             >
-              <i class="fab fa-github-square social"></i>
+              <i className="fab fa-github-square social"></i>
             </a>
-            <i class="fas fa-mobile-alt social">
-              <span class="number"> (804) 305-2701</span>
+            <i className="fas fa-mobile-alt social">
+              <span className="number"> (804) 305-2701</span>
             </i>
           </Col>
         </Row>
