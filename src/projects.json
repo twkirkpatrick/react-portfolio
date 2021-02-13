@@ -1,5 +1,13 @@
 [
   {
+    "title": "Open House",
+    "image": "/img/openhouse.png",
+    "description": "An open source CRM platform designed to manage business information and increase productivity for Real Estate professionals.",
+    "tech": "React, Material UI, Node, Express, MongoDB, JWT, Chart.js ",
+    "code": "https://github.com/lucsedirae/open-house-crm",
+    "demo": "https://open-house-crm.herokuapp.com/"
+  },
+  {
     "title": "Pyramid",
     "image": "/img/pyramid.png",
     "description": "An employee directory that allows the user to filter and sort their employees by multiple categories in an intuitive environment.",
@@ -42,7 +50,7 @@
   {
     "title": "ClearSky",
     "image": "/img/clearsky.png",
-    "description": "A weather dashboard application that enables the user to retrieve the current weather and 5-day forecast for cities across the United States.",
+    "description": "An application that enables the user to retrieve the current weather and 5-day forecast for cities across the United States.",
     "tech": "jQuery, Bootstrap, OpenWeatherMap API, Local Storage",
     "code": "https://github.com/twkirkpatrick/Clear-Sky-Weather-Dashboard",
     "demo": "https://twkirkpatrick.github.io/Clear-Sky-Weather-Dashboard/"
